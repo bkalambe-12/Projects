@@ -1,2 +1,4 @@
 # Projects
-Compilation of webdev projects 
+This is a complete compilation of  projects along with their details
+
+Bhagyashree
